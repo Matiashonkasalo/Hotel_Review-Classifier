@@ -1,4 +1,4 @@
-# Hotel Review Classification – Deceptive Opinion Spam Detection
+# Hotel Review Classification
 
 This project implements a machine-learning classifier to detect **deceptive** vs **truthful** hotel reviews, and whether the sentiment is **positive** or **negative**.  
 It uses classical NLP (TF-IDF + SVM) to classify each review into one of four categories:
