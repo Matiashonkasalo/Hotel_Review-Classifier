@@ -12,20 +12,6 @@ The project trains on the provided labelled dataset and generates predictions fo
 
 ---
 
-## Project Structure
-
-NLP_project/
-│
-├── data/
-│ ├── train.txt
-│ ├── test_just_reviews.txt
-│
-├── src/
-│ ├── PROJECT2_NL.py # Main script (training + evaluation + prediction)
-│
-└── Results.txt
-
----
 
 ## Requirements
 
